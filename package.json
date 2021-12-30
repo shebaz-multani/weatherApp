@@ -1,0 +1,15 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "Show live weater app data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shebaz",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.14",
+    "requests": "^0.3.0"
+  }
+}
